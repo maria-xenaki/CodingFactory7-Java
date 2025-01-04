@@ -1,4 +1,4 @@
-Contains the following two projects from the AUEB Program Coding Factory 7:
+Contains the following projects from the AUEB Program Coding Factory 7:
 
 Project 1:
 Αναπτύξτε ένα πρόγραμμα σε Java που να διαβάζει από ένα αρχείο ακέραιους 
